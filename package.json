@@ -1,0 +1,21 @@
+{
+  "name": "create-eth2-test-account",
+  "version": "0.1.0",
+  "main": "bin/index.js",
+  "license": "MIT",
+  "author": "Philipp Langhans",
+  "keywords": [
+    "Ethereum",
+    "Eth2",
+    "faucet",
+    "CLI"
+  ],
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "cli-progress": "^3.8.2",
+    "enquirer": "^2.3.5",
+    "ethers": "^4.0.47",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
