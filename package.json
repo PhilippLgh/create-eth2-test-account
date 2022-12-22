@@ -16,6 +16,6 @@
     "cli-progress": "^3.8.2",
     "enquirer": "^2.3.5",
     "ethers": "^4.0.47",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   }
 }
